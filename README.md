@@ -3,6 +3,7 @@
 This data collected from Sahibinden that using webscraping on 28 June 2022 and got from Kaggle.
 
 We'll give examples about
+- Basic string operations in dataframe
 - Impementing pipelines
 - Hyperparameter tuning using GridSearch
 - KFold Crossvalidation
